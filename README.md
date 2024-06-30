@@ -15,7 +15,7 @@ OBJECTIVES:
 classification methods to get the best accuracy. 
  
 ABSTRACT: 
-ABSTRACT: Diabetes Mellitus is a serious illness that affects a large number of 
+ Diabetes Mellitus is a serious illness that affects a large number of 
 people. Diabetes mellitus can be brought on by a number of factors, including 
 advanced age, obesity, a poor diet, genetics, high blood pressure, and lack of 
 exercise. Diabetes increases a person's risk of developing heart disease, renal 
